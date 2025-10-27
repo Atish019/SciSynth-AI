@@ -1,4 +1,5 @@
 from langchain_core.tools import tool
+from pypdf import PdfReader
 import io
 import PyPDF2
 import requests
