@@ -1,7 +1,7 @@
 ---
 title: Research AI Agent
 emoji: 🔬
-colorFrom: cyan
+colorFrom: blue
 colorTo: purple
 sdk: docker
 app_file: frontend.py
