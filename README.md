@@ -48,20 +48,6 @@ SciSynth-AI is an intelligent research assistant that leverages AI agents to sea
 - Google API key for Gemini 2.5 Pro
 
 
-##  Dependencies
-
-The project uses the following key libraries:
-
-```python
-streamlit>=1.28.0
-langchain-google-genai>=1.0.0
-langgraph>=0.2.0
-requests>=2.31.0
-PyPDF2>=3.0.0
-python-dotenv>=1.0.0
-xml-etree-elementtree  # Built-in Python module
-```
-
 ##  Project Structure
 
 ```
@@ -88,14 +74,8 @@ SciSynth-AI/
    streamlit run frontend.py
    ```
 
-2. **Open your browser and navigate to:** `http://localhost:8501`
+2. **Open your browser and navigate to:** `[http://localhost:8501](https://huggingface.co/spaces/Atish020/SciSynth-AI)`
 
-3. **Interact with the AI agent:**
-   - Describe your research interests
-   - Review suggested papers
-   - Select papers for detailed analysis
-   - Generate new research ideas
-   - Request paper writing and PDF generation
 
 
 ##  Workflow Example
