@@ -1,3 +1,14 @@
+---
+title: Research AI Agent
+emoji: 🔬
+colorFrom: cyan
+colorTo: purple
+sdk: docker
+app_file: frontend.py
+pinned: false
+license: mit
+---
+
 # SciSynth-AI: Agentic Research Assistant
 
 [![Python Version](https://img.shields.io/badge/python-blue.svg)](https://python.org)
