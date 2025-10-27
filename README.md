@@ -110,16 +110,6 @@ SciSynth-AI/
 8. **PDF Generation**: System renders the LaTeX to a professional PDF
 
 
-##  Error Handling
-
-The system includes comprehensive error handling for:
-
-- **Invalid arXiv queries**: Character validation and sanitization
-- **PDF reading failures**: Network issues and malformed PDFs
-- **LaTeX compilation errors**: Tectonic compilation issues
-- **API failures**: Google AI API rate limits and errors
-- **File system errors**: Permission and disk space issues
-
 ##  Performance Considerations
 
 - **Concurrent Processing**: Streamlit interface supports real-time streaming
