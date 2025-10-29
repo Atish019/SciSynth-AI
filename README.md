@@ -102,3 +102,11 @@ SciSynth-AI/
 
 
 **SciSynth-AI**: Accelerating scientific discovery through intelligent research synthesis.
+
+#### AI Agent Marketplace Index And Router | [API Doc](https://www.deepnlp.org/doc/ai_agent_marketplace)
+[![AI Agent Marketplace and Router Badge](https://www.deepnlp.org/api/ai_agent_marketplace/svg?name=Atish019/SciSynth-AI&badge_type=review)](https://www.deepnlp.org/store/ai-agent/finance/pub-Atish019/scisynth-ai)
+
+```
+curl 'https://www.deepnlp.org/api/ai_agent_marketplace/v2?id=Atish019/SciSynth-AI'
+```
+    
